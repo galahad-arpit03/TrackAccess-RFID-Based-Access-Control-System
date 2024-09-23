@@ -28,7 +28,7 @@ This project is an RFID-based access control system that uses the **NodeMCU ESP8
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/galahad-arpit03/TrackAccess---RFID-Based-Access-Control-System
+   https://github.com/galahad-arpit03/TrackAccess-RFID-Based-Access-Control-System
    ```
 3. Install the required libraries:
    - **ESP8266WiFi.h** (for Wi-Fi connection)
